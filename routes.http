@@ -1,4 +1,4 @@
-POST http://localhost:8080/videos
+POST https://estudos-node-do-zero-2r41.onrender.com/videos
 Content-type: application/json
 
 {
@@ -9,11 +9,11 @@ Content-type: application/json
 
 ###
 
-GET http://localhost:8080/videos
+GET https://estudos-node-do-zero-2r41.onrender.com/videos
 
 ###
 
-PUT http://localhost:8080/videos/f2083017-ce3d-416d-925a-f447cb51db6b
+PUT https://estudos-node-do-zero-2r41.onrender.com/videos/fa3fd382-b937-46ff-ac0e-0df55ce3b8d4
 Content-type: application/json
 
 {
@@ -24,4 +24,4 @@ Content-type: application/json
 
 ###
 
-DELETE http://localhost:8080/videos/f2083017-ce3d-416d-925a-f447cb51db6b
+DELETE https://estudos-node-do-zero-2r41.onrender.com/videos/fa3fd382-b937-46ff-ac0e-0df55ce3b8d4
